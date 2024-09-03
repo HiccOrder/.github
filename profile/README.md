@@ -8,10 +8,10 @@
 
 ### 디자인
 
-|                    [윤지윤](https://github.com/jiyoon07)                     |       [정상희]()        |       [한수빈]()        |                     [조승완](https://github.com/wnynya)                     |
-| :--------------------------------------------------------------------------: | :---------------------: | :---------------------: | :-------------------------------------------------------------------------: |
-|                                 디자인 리드                                  |         디자인          |         디자인          |                                   디자인                                    |
-| <img src="https://avatars.githubusercontent.com/u/170223922?v=4" width="50"> | <img src="" width="50"> | <img src="" width="50"> | <img src="https://avatars.githubusercontent.com/u/52326888?v=4" width="50"> |
+| <img src="https://avatars.githubusercontent.com/u/170223922?v=4" width="50"> [윤지윤](https://github.com/jiyoon07) |       [정상희]()        |       [한수빈]()        |                     [조승완](https://github.com/wnynya)                     |
+| :----------------------------------------------------------------------------------------------------------------: | :---------------------: | :---------------------: | :-------------------------------------------------------------------------: |
+|                                                    디자인 리드                                                     |         디자인          |         디자인          |                                   디자인                                    |
+|                    <img src="https://avatars.githubusercontent.com/u/170223922?v=4" width="50">                    | <img src="" width="50"> | <img src="" width="50"> | <img src="https://avatars.githubusercontent.com/u/52326888?v=4" width="50"> |
 
 ### 프론트엔드
 
